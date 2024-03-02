@@ -1,2 +1,5 @@
 # Bank-System
-simple bank system includes Normal account class , Savings account ,  InterestRewardAccount
+Bank System using oop with Classes
+1)Normal account
+2)Savings account
+3)InterestRewardAccount
